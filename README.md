@@ -1,6 +1,8 @@
-<img src="https://i.ibb.co/YLYbJSk/banner.png" alt="banner" border="0">
+<img align="center" src="https://i.ibb.co/YWcHZrZ/banner.png" alt="banner" border="0">
 
-I'm a Software Engineer with a diverse background in Latinx Studies and Law. My unique perspective enables me to consider technical, ethical, cultural aspects in my solutions. My end goal is to help with creating tech-driven initiatives for underserved communities that will promote inclusivity, diversity, and sustainability.
+<p align="left">   I'm a Software Engineer with a diverse background in Latinx Studies and Law. <br>
+  My unique perspective enables me to consider technical, ethical, cultural aspects in my solutions.<br>
+  My end goal is to help with creating tech-driven initiatives for underserved communities that will promote inclusivity, diversity, <br>and sustainability.</p>
 
 - 🔭 I’m currently redoing my site [Serenity Harbor](https://github.com/LillianOquendo/Serenity-Harbor-Project)
 
