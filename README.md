@@ -4,7 +4,7 @@
   My unique perspective enables me to consider technical, ethical, cultural aspects in my solutions.<br>
   My end goal is to help with creating tech-driven initiatives for underserved communities that will promote inclusivity, diversity, <br>and sustainability.</p>
 
-- 🔭 I’m currently redoing my site [Serenity Harbor](https://github.com/LillianOquendo/Serenity-Harbor-Project)
+- 🔭 I’m currently redoing my site [Serenity Harbor](https://github.com/LillianOquendo/Serenity-Harbor-2.0)
 
 - 🌱 I’m currently exploring **UI/UX Design**
 
